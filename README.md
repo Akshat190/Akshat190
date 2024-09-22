@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Akshat190&icon=5&color=9)](https://visitcount.itsvg.in)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1B15F7&width=435&lines=Passionate+about+startups++;Full+Stack+Developer)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
@@ -14,6 +16,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat190&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Akshat190&icon=5&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
