@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-choksi-b0b15a28b) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](/https://x.com/AkshatChoksi) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AkshatChoksi) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Akshat190)
 
 
