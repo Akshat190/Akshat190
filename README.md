@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Akshat190&icon=5&color=9)](https://visitcount.itsvg.in)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1B15F7&width=435&lines=Passionate+about+startups++;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1B15F7&width=435&lines=Passionate+about+startups++;Full+Stack+Developer;open+source)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-choksi-b0b15a28b) 
